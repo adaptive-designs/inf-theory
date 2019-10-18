@@ -1,6 +1,6 @@
-# The code below can be used to reproduce the results of
+The code below can be used to reproduce the results of
 # An information-theoretic approach for selecting arms in clinical trials
-# by P. Mozgunov and T. Jaki (2019)
+ by P. Mozgunov and T. Jaki (2019)
 
 # wde-main-code.R
 Implements the WE-design (using either Select-the-Best or Randomization Rules) that uses the leading term of the asymptotics
